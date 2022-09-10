@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/truncgil/looperman-downloader/main/header-mid.png"/>
-    <h1>Looperman Mp3 Downloader </h1>
+    <h1>Looperman Mp3 Downloader (Chrome Extension)</h1>
     <h3>Thanks to this Chrome extension, you can download files in mp3 format directly without logging in from looperman.com.</h3>
 </div>
 
