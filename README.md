@@ -1,16 +1,12 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/SimGus/chrome-addon-v3-starter/master/logo/logo-128.png"/>
-    <h1>Chrome Extension v3 Starter</h1>
-    <h3>A minimal template of a Chrome v3 addon</h3>
+    <img src="https://www.looperman.com/assets/images/layout/header-mid.png"/>
+    <h1>Looperman Mp3 Downloader </h1>
+    <h3>Thanks to this Chrome extension, you can download files in mp3 format directly without logging in from looperman.com.</h3>
 </div>
 
-This repository contains a minimal Chrome/Chromium extension that uses the newest version of the manifest (v3).
+You can use the extension directly by installing the package on Chrome.
 
 You can use it as a basis to develop an extension.
-It can also give you more insights about how to turn a v2 extension to v3.
-
-In other words, this is a **working, installable v3 extension** example meant for you to **jumpstart** the development of your own extension.
-
 
 ## Installation
 - **Fork** this repo, then **clone your forked repo locally**. If you don't have a github account, you can simply download a zip of the repo and unzip it on your computer.
